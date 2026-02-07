@@ -1,61 +1,46 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# <h1 align="center">Hey 👋, I'm Mohamed Saad</h1>
+<h3 align="center">A Passionate Data Scientist from Egypt 🇪🇬</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamo229&label=Profile%20views&color=0e75b6&style=flat" alt="hamo229" />
+</p>
 
-<h4 align="left">My name is Mohamed and I'm a Data Scientist, from Egypt</h4>
+---
 
-###
+## 📖 About Me
+- ✨ **Expertise:** Turning raw data into actionable insights (and creating occasional bugs 🐛).
+- 📚 **Learning:** Deep Learning and Advanced Statistical Modeling.
+- 🎯 **Goals:** Contributing to Open Source Data Science projects.
+- 🎲 **Fun fact:** I can debug code in my sleep, but I still struggle to find my keys in the morning.
 
-<h2 align="left">About me</h2>
+---
 
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-</div>
-
-###
-
-<br clear="both">
-
+## 🛠 Tech Stack
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamo229&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamo229&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamo229&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div>
 
-###
+---
 
+## 📊 GitHub Analytics
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamo229&show_icons=true&theme=dracula&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamo229&layout=compact&theme=dracula" height="180em" />
 </div>
 
-###
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamo229&theme=react&area=true" width="100%" />
+</p>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
+---
 
-###
+## 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://discord.gg/YOUR_INVITE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord" height="30" width="40" /></a>
+</p>
