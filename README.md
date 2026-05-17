@@ -7,18 +7,18 @@ Turning data into insights and ideas into real-world solutions.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Student at the Faculty of Computers & Information  
-- 📊 Passionate about **Data Science, Machine Learning, and AI**  
-- 🐍 Currently strengthening my skills in **Python, Pandas, NumPy, and Matplotlib**  
-- ☕ Strong background in **Java** and object-oriented programming  
-- 🧠 Interested in solving real-world problems using data  
-- 🎯 Career Goal: Become a professional **Data Scientist**
+-  Student at the Faculty of Computers & Information  
+-  Passionate about **Data Science, Machine Learning, and AI**  
+-  Currently strengthening my skills in **Python, Pandas, NumPy, and Matplotlib**  
+-  Strong background in **Java** and object-oriented programming  
+-  Interested in solving real-world problems using data  
+-  Career Goal: Become a professional **Data Scientist**
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -28,7 +28,7 @@ Turning data into insights and ideas into real-world solutions.
 
 ---
 
-## 🔥 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -42,9 +42,7 @@ Turning data into insights and ideas into real-world solutions.
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/>www.linkedin.com/in/mohamed-saad-0886a5323</a>
 
 </div>
 
