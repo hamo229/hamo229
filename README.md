@@ -17,15 +17,22 @@ Turning data into insights and ideas into real-world solutions.
 -  Career Goal: Become a professional **Data Scientist**
 
 ---
-
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,r,mysql,androidstudio&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,r,mysql,aws"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-ML-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-Analytics-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Probability%20&%20Statistics-Math-success?style=for-the-badge"/>
 
 </div>
-
 ---
 
 ##  Contribution Activity
@@ -42,11 +49,11 @@ Turning data into insights and ideas into real-world solutions.
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/>www.linkedin.com/in/mohamed-saad-0886a5323</a>
+<a href="www.linkedin.com/in/mohamed-saad-0886a5323"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 
 </div>
 
 ---
 
-## 💡 Quote I Like
+## Quote I Like
 > “Without data, you're just another person with an opinion.” – W. Edwards Deming
