@@ -5,7 +5,7 @@
 Turning data into insights and ideas into real-world solutions.
 </p>
 
----
+
 
 ##  About Me
 
@@ -16,7 +16,7 @@ Turning data into insights and ideas into real-world solutions.
 -  Interested in solving real-world problems using data  
 -  Career Goal: Become a professional **Data Scientist**
 
----
+
 ## Tech Stack
 
 <div align="center">
@@ -33,7 +33,7 @@ Turning data into insights and ideas into real-world solutions.
 <img src="https://img.shields.io/badge/Probability%20&%20Statistics-Math-success?style=for-the-badge"/>
 
 </div>
----
+
 
 ##  Contribution Activity
 
@@ -43,7 +43,7 @@ Turning data into insights and ideas into real-world solutions.
 
 </div>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -54,7 +54,6 @@ Turning data into insights and ideas into real-world solutions.
 </a>
 
 </div>
----
 
 ## Quote I Like
 > “Without data, you're just another person with an opinion.” – W. Edwards Deming
