@@ -49,10 +49,11 @@ Turning data into insights and ideas into real-world solutions.
 
 <div align="center">
 
-<a href="www.linkedin.com/in/mohamed-saad-0886a5323"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/mohamed-saad-0886a5323/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
 </div>
-
 ---
 
 ## Quote I Like
