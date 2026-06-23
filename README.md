@@ -53,7 +53,7 @@ Turning data into insights and ideas into real-world solutions.
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://wa.me/qr/HALUU77ZA5PQN1" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="48" />
+ <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp"  />
 </a>
 
 </div>
