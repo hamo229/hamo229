@@ -53,7 +53,7 @@ Turning data into insights and ideas into real-world solutions.
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://wa.me/qr/HALUU77ZA5PQN1" target="_blank">
- <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp"  />
+<img src="https://api.iconify.design/skill-icons:whatsapp.svg" alt="WhatsApp" width="50" height="50" style="vertical-align: middle;" />
 </a>
 
 </div>
